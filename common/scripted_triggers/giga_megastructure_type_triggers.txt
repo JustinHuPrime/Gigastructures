@@ -471,6 +471,15 @@ giga_has_birch_world = {
 	}
 }
 
+giga_has_supermassive_ehof = {
+	OR = {
+		has_megastructure = supermassive_ehof_0
+		has_megastructure = supermassive_ehof_1
+		has_megastructure = supermassive_ehof_2
+		has_megastructure = supermassive_ehof_3
+	}
+}
+
 giga_has_crystal_megabore = {
     OR = {
         has_megastructure = crystal_megabore_0
